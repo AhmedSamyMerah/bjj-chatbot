@@ -11,7 +11,7 @@
     <!-- The URL provided below is for DALLAS region/location -->
     <!-- If the Assistant service is created in another region/lpcation -->
     <!-- REPLACE the URL with the one provided in the credentials of the service you created-->
-    <string name="assistant_url">https://gateway.watsonplatform.net/assistant/api</string>
+    <string name="assistant_url">https://api.us-south.assistant.watson.cloud.ibm.com/instances/e11860f8-f9b2-4a86-9701-e40488b531a8</string>
 
 
     <!--Watson Speech To Text(STT) service credentials-->
