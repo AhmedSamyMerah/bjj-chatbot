@@ -6,7 +6,7 @@
     <string name="assistant_id">f17e057b-17c9-49c6-b981-eff9f15e8dd6</string>
 
     <!-- REPLACE `ASSISTANT_API_KEY_HERE` with Watson Assistant service API Key-->
-    <string name="assistant_apikey">ASSISTANT_API_KEY_HERE</string>
+    <string name="assistant_apikey">yuozti3fGBtA5kA1hEEgYRaCbTp4DMD-Qz1h_iYSWLcR</string>
 
     <!-- The URL provided below is for DALLAS region/location -->
     <!-- If the Assistant service is created in another region/lpcation -->
