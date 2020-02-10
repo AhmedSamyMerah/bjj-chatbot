@@ -3,15 +3,15 @@
 
     <!--Watson Assistant service credentials-->
     <!-- REPLACE `ASSISTANT_ID_HERE` with ID of the Assistant to use -->
-    <string name="assistant_id">f17e057b-17c9-49c6-b981-eff9f15e8dd6</string>
+    <string name="assistant_id">key</string>
 
     <!-- REPLACE `ASSISTANT_API_KEY_HERE` with Watson Assistant service API Key-->
-    <string name="assistant_apikey">yuozti3fGBtA5kA1hEEgYRaCbTp4DMD-Qz1h_iYSWLcR</string>
+    <string name="assistant_apikey">key</string>
 
     <!-- The URL provided below is for DALLAS region/location -->
     <!-- If the Assistant service is created in another region/lpcation -->
     <!-- REPLACE the URL with the one provided in the credentials of the service you created-->
-    <string name="assistant_url">https://api.us-south.assistant.watson.cloud.ibm.com/instances/e11860f8-f9b2-4a86-9701-e40488b531a8</string>
+    <string name="assistant_url">KEY</string>
 
 
     <!--Watson Speech To Text(STT) service credentials-->
